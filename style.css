@@ -1,0 +1,24 @@
+:root{
+    --primary: #1090CB !important;
+
+}
+
+.bcolorb{
+    background-color: var(--primary) !important;
+    color: white !important;
+}
+.first{
+    position: sticky !important;
+    top: 0 !important;
+}
+.bnm{
+    outline: 1px solid var(--primary) !important;
+    color: var(--primary);
+}
+.span1{
+    color: var(--primary) !important;
+}
+.nmn{
+    background: #1090CB1A !important;
+
+}
