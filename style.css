@@ -10,6 +10,7 @@
 .first{
     position: sticky !important;
     top: 0 !important;
+    background-color: white !important;
 }
 .bnm{
     outline: 1px solid var(--primary) !important;
@@ -20,5 +21,92 @@
 }
 .nmn{
     background: #1090CB1A !important;
+}
+.featuuree{
+    width: 100% !important;
+}
+.div{
+     width: 100% !important;
+}
+.whitee{
+    background-color: white !important;
+}
+.span5{
+     color: var(--primary) !important;
+}
+.sive{
+    font-size: 40px !important;
+}
+.color{
+     background-image: url(./images/Rectangle\ 6.png) !important;
+}
+.color{
+    background-image: url(./images/Rectangle\ 6.png) !important;
+    width: 83px !important ;
+    height: 83px !important ;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center ;
+}
+.color img{
+    width: 40% !important;
+}
+.full{
+    background-image: url(./images/Rectangle\ 7.png)!important;
+}
+.full1{
+    background-image: url(./images/Rectangle\ 8.png) !important;
+}
+.full2{
+    background-image: url(./images/Rectangle\ 9.png) !important;
+}
+.bg{
+    background-image: url(./images/Ellipse\ 3\ \(4\).png) !important;
+    width: 58px !important;
+    height: 58px !important;
+}
+.bg2{
+     background-image: url(./images/Ellipse\ 3\ \(5\).png) !important;
+    width: 58px !important;
+    height: 58px !important;
+}
+.bg3{
+     background-image: url(./images/Ellipse\ 3\ \(6\).png) !important;
+    width: 58px !important;
+    height: 58px !important;
+}
 
+.card2{
+    background-color: var(--primary) !important;
+    border-radius: 20px !important;
+}
+.card1{
+    background-color: #F4F4F4 !important;
+    border-radius: 20px !important;
+}
+.cards-para{
+    font-family: Poppins !important;
+}
+.outline{
+    border: 1px solid var(--primary) !important;
+    background-color: white !important;
+    color: var(--primary) !important;
+}
+.custom-color{
+    color: #ffff !important;
+}
+.lol2{
+    background-image: url(./images/Ellipse\ 3.png) !important;
+    width: 58px !important;
+    height: 58px !important;
+}
+.lol1{
+     background-image: url(./images/Ellipse\ 3\ \(2\).png) !important;
+    width: 58px !important;
+    height: 58px !important;
+}
+.lhj{
+     background-image: url(./images/Ellipse\ 3\ \(6\).png) !important;
+    width: 58px !important;
+    height: 58px !important;
 }
