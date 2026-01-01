@@ -75,10 +75,45 @@
     width: 58px !important;
     height: 58px !important;
 }
+.flim{
+    width: 500px !important;
+    display: inline !important; 
+}
+.foot-gray{
+     background: #ffffff !important;
+}
+.icons{
+   border-radius: 50% !important;
+   padding: 3px !important;
+   padding-left: 4px !important;
+   padding-right: 4px !important;
+   background-color: #4a4a4b !important ;
+}
+.alr{
+    background: #E8F4FA !important;
+
+}
+.grayish-color{
+   /* color:#7c7b7b !important; */
+     color:#F5F7FA !important;
+     font-weight: 100 !important;
+     font-family: Inter !important;
+}
+.custom-width{
+   width: 90% !important;
+}
 
 .card2{
     background-color: var(--primary) !important;
     border-radius: 20px !important;
+}
+.bhj{
+     background-color: var(--primary) !important;
+      color: #ffff !important;
+}
+.subs{
+    background-color: black !important;
+    color: white !important;
 }
 .card1{
     background-color: #F4F4F4 !important;
